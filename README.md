@@ -1,6 +1,4 @@
-# Java Programming Assignments
-
-This repository contains solutions to four introductory Java programming assignments that cover fundamental concepts including command-line arguments, mathematical operations, and type conversions.
+# Simple Java Programs
 
 ## Program 1: HelloGoodbye
 
